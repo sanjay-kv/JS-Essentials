@@ -5,22 +5,21 @@
 
 This repository provides a comprehensive overview of key JavaScript concepts, including data types, hoisting, closures, and more. The content is designed for developers looking to deepen their understanding of JavaScript.
 
-## Table of Contents
-
-1. [Different Data Types in JavaScript](#different-data-types-in-javascript)
-2. [Concept of Hoisting in JavaScript](#concept-of-hoisting-in-javascript)
-3. [Difference Between `==` and `===` in JavaScript](#difference-between--and--in-javascript)
-4. [Closure in JavaScript](#closure-in-javascript)
-5. [Difference Between `Function Declaration` and `Function Expression`](#difference-between-function-declaration-and-function-expression)
-6. [The `this` Keyword in JavaScript](#the-this-keyword-in-javascript)
-7. [Cloning an Object in JavaScript](#cloning-an-object-in-javascript)
-8. [Difference Between `null` and `undefined`](#difference-between-null-and-undefined)
-9. [Concept of Prototypal Inheritance](#concept-of-prototypal-inheritance)
-10. [Difference Between `setTimeout()` and `setInterval()`](#difference-between-settimeout-and-setinterval)
-11. [Promises in JavaScript](#promises-in-javascript)
-12. [Async/Await in JavaScript](#asyncawait-in-javascript)
-13. [The Event Loop in JavaScript](#the-event-loop-in-javascript)
-14. [Debouncing and Throttling](#debouncing-and-throttling)
+### Top most asked javascript 
+1. What are the different data types in JavaScript?
+2. Explain the concept of hoisting in JavaScript.
+3. What is the difference between `==` and `===` in JavaScript?
+4. What is a closure in JavaScript?
+5. What is the difference between `function declaration` and `function expression`?
+6. What is the `this` keyword in JavaScript, and how does it work?
+7. How do you clone an object in JavaScript?
+8. What is the difference between `null` and `undefined`?
+9. Explain the concept of prototypal inheritance.
+10. What is the difference between `setTimeout()` and `setInterval()`?
+11. What is a Promise, and how does it work?
+12. What is async/await and how does it simplify working with Promises?
+13. What is the event loop in JavaScript?
+14. Explain the concept of debouncing and throttling.
 
 ## 1. Different Data Types in JavaScript
 
