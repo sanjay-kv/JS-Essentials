@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="/Assets/logo.png" type="image/x-icon">
+    <title>JS-Essentials</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        #content {
+            margin-right: 150px;
+            margin-left: 150px;
+        }
+
+        nav {
+            background-color: #333;
+            color: white;
+            padding: 15px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+        }
+
+        .logo img {
+            height: 40px;
+            margin-right: 10px;
+        }
+
+        .logo h1 {
+            margin: 0;
+            color: white;
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            margin-right: 50px;
+        }
+
+        nav ul li {
+            margin: 0 15px;
+        }
+
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        nav ul li a:hover {
+            text-decoration: underline;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        pre {
+            background-color: #333;
+            color: #f4f4f4;
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        code {
+            padding: 2px 4px;
+            border-radius: 3px;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 5px;
+            border-radius: 5px;
+            text-align: center;
+            margin-top: 60px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Navbar -->
+    <nav>
+        <div class="logo">
+            <img src="/Assets/logo.png" alt="JS-Essentials Logo">
+            <h1>JS-Essentials</h1>
+        </div>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#tutorials">Tutorials</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <div id="content">Loading...</div>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 JS-Essentials. All rights reserved.</p>
+    </footer>
+
+    <!-- Include marked.js library -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+    <script>
+        const url = 'https://raw.githubusercontent.com/MastanSayyad/JS-Essentials/main/README.md';
+
+        fetch(url)
+            .then(response => response.text())
+            .then(data => {
+                const contentElement = document.getElementById('content');
+                // Convert Markdown to HTML using marked.js
+                contentElement.innerHTML = marked.parse(data);
+            })
+            .catch(error => {
+                document.getElementById('content').textContent = 'Failed to load README.';
+                console.error('Error fetching README:', error);
+            });
+    </script>
+</body>
+</html>
