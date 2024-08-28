@@ -32,6 +32,153 @@ JavaScript has several data types:
 - **Composite Types**:
   - **Object**: Represents collections of properties.
   - **Array**: A type of object that holds a collection of values in an ordered list.
+ 
+<details><summary>For more details: Click Here 👇</summary>
+
+### JavaScript Data Types
+
+JavaScript has a variety of data types that are categorized into **Primitive Types** and **Composite Types** (also known as Reference Types).
+
+#### **Primitive Types**
+
+1. **Number**
+   - Represents both integers and floating-point numbers (decimals).
+   - **Example**:
+     ```javascript
+     let integer = 42;          // Integer
+     let floatingPoint = 3.14;  // Floating-point number
+     let negative = -7;         // Negative number
+     let largeNumber = 1.23e5;  // Exponential notation
+     ```
+   - **Special Numbers**:
+     - `NaN` (Not-a-Number): Represents a computational error.
+       ```javascript
+       let result = "text" / 2;  // NaN because "text" is not a number
+       ```
+     - `Infinity` and `-Infinity`: Represent positive and negative infinity.
+       ```javascript
+       let infinite = 1 / 0;     // Infinity
+       let negInfinite = -1 / 0; // -Infinity
+       ```
+
+2. **String**
+   - Represents a sequence of characters (text).
+   - Can be created using single quotes (`'`), double quotes (`"`), or backticks (`` ` ``) for template literals.
+   - **Example**:
+     ```javascript
+     let singleQuoteStr = 'Hello, World!';
+     let doubleQuoteStr = "JavaScript is fun!";
+     let templateLiteral = `This is a ${singleQuoteStr}`;
+     ```
+
+3. **Boolean**
+   - Represents logical values: `true` or `false`.
+   - Often used in conditional statements.
+   - **Example**:
+     ```javascript
+     let isJavaScriptFun = true;
+     let isPythonBetter = false;
+     let comparison = 5 > 3;  // true
+     ```
+
+4. **Null**
+   - Represents the intentional absence of any object value. It is often used to indicate that a variable should have no value.
+   - **Example**:
+     ```javascript
+     let emptyValue = null;
+     console.log(emptyValue); // null
+     ```
+
+5. **Undefined**
+   - Represents a variable that has been declared but not yet assigned a value.
+   - If a function does not return a value, it returns `undefined` by default.
+   - **Example**:
+     ```javascript
+     let notAssigned;
+     console.log(notAssigned); // undefined
+
+     function doNothing() {}
+     console.log(doNothing()); // undefined
+     ```
+
+6. **Symbol**
+   - Represents a unique and immutable value. It is often used as a key in objects to avoid name collisions.
+   - Each `Symbol` is unique, even if it has the same description.
+   - **Example**:
+     ```javascript
+     let symbol1 = Symbol('id');
+     let symbol2 = Symbol('id');
+
+     console.log(symbol1 === symbol2); // false
+     ```
+
+7. **BigInt**
+   - Represents integers with arbitrary precision, allowing you to work with numbers larger than `Number.MAX_SAFE_INTEGER`.
+   - Created by appending `n` to the end of an integer.
+   - **Example**:
+     ```javascript
+     let largeNumber = 9007199254740991n;  // BigInt
+     let anotherBigInt = BigInt(12345678901234567890);
+     ```
+
+#### **Composite Types**
+
+1. **Object**
+   - Represents collections of properties. An object is a collection of key-value pairs, where the key is a string (or `Symbol`) and the value can be any data type.
+   - **Example**:
+     ```javascript
+     let person = {
+       name: 'John Doe',
+       age: 30,
+       isEmployed: true,
+       greet: function() {
+         console.log('Hello, my name is ' + this.name);
+       }
+     };
+
+     console.log(person.name);  // 'John Doe'
+     person.greet();            // 'Hello, my name is John Doe'
+     ```
+
+   - **Specialized Objects**:
+     - **Date**: Represents date and time.
+       ```javascript
+       let now = new Date();
+       console.log(now);  // Current date and time
+       ```
+     - **Function**: Functions in JavaScript are first-class objects, meaning they can be stored in variables, passed as arguments, and returned from other functions.
+       ```javascript
+       let sayHello = function(name) {
+         return `Hello, ${name}!`;
+       };
+
+       console.log(sayHello('Alice')); // 'Hello, Alice!'
+       ```
+
+2. **Array**
+   - A type of object that holds a collection of values in an ordered list. Each value (element) in an array has an index, starting from 0.
+   - Arrays can contain elements of different types, including other arrays (multidimensional arrays).
+   - **Example**:
+     ```javascript
+     let numbers = [1, 2, 3, 4, 5];
+     let mixedArray = [1, 'text', true, null, { key: 'value' }];
+
+     console.log(numbers[0]);  // 1
+     console.log(mixedArray[4]); // { key: 'value' }
+     ```
+
+   - **Common Array Methods**:
+     - `push()`: Adds an element to the end of the array.
+     - `pop()`: Removes the last element of the array.
+     - `shift()`: Removes the first element of the array.
+     - `unshift()`: Adds an element to the beginning of the array.
+     - `map()`: Creates a new array by applying a function to each element of the array.
+       ```javascript
+       let squared = numbers.map(num => num * num);
+       console.log(squared); // [1, 4, 9, 16, 25]
+       ```
+</details>
+JavaScript's data types provide the foundation for manipulating and storing data within programs. Understanding these data types and how to work with them effectively is crucial for writing robust and efficient JavaScript code.
 
 ## 2. Concept of Hoisting in JavaScript
 
