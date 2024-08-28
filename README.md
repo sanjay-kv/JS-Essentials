@@ -33,7 +33,7 @@ JavaScript has several data types:
   - **Object**: Represents collections of properties.
   - **Array**: A type of object that holds a collection of values in an ordered list.
  
-<details><summary>For more details: Click Here 👇</summary>
+<details><summary>For more details: **Click Here** 👇</summary>
 
 ### JavaScript Data Types
 
