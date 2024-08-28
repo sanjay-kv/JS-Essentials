@@ -1,8 +1,5 @@
 # JS-Essentials
 
-
-# JavaScript Concepts
-
 This repository provides a comprehensive overview of key JavaScript concepts, including data types, hoisting, closures, and more. The content is designed for developers looking to deepen their understanding of JavaScript.
 
 ### Top most asked javascript 
