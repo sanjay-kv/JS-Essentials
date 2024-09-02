@@ -93,7 +93,7 @@
 | Dinesh               | [dinxsh](https://github.com/dinxsh)                          |     50       |
 
 
-## #Program Manager (GIrls)
+## #Program Manager (Girls)
 (Suggestions based on the highest points, activity and the management skills)
 
 | **Team Member Name**           | **GitHub Profile**                                       | **Score** | **Judgement**                                                                                                                                                                                                                                   |
@@ -105,7 +105,20 @@
 | Tejashri Taral                 | [Tejashri-Taral](https://github.com/Tejashri-Taral)      | 80        | Tejashri (gssoc Rank 93) has made significant contributions with PRs for adding a progress bar and contributors section. She also participated in earlier tasks. |
 | Nikita Tiwari                  | [nikki-05](https://github.com/nikki-05)                  | 65        | Nikita (GSSOc Rank 159) has participated in earlier tasks but has not made PRs in ML repos. Her previous contributions suggest she could potentially handle a Program Manager role with further experience and involvement. |
 
+## #GSSOC Interns
 
+(Nominees with highest points)
+
+| **Team Member Name**           | **GitHub Profile**                                       | **Score** | Remarks |
+|--------------------------------|----------------------------------------------------------|-----------|----------|
+| Shreyash Srivastava            | [shreyash3087](https://github.com/shreyash3087)          | 150       | Great Technical skills, problem solver, and perfect fit for gssoc intern and even a core team member |
+| Aditya C                       | [aditya-bhaumik](https://github.com/aditya-bhaumik)      | 135       | Initiative, collaboration skills |
+| Vansh Chaurasiya               | [vansh-codes](https://github.com/vansh-codes)            | 130       | Great in Both Tech and soft Skills 
+| Suhani Singh Paliwal           | [suhanipaliwal](https://github.com/suhanipaliwal)        | 120       | Didn't showcase much tech skills but highly active |
+| Saumili Roy                    | [sau-mili](https://github.com/sau-mili)                  | 100       | Balance of both tech and soft skills |
+| Akshitha Chiluka               | [AKSHITHA-CHILUKA](https://github.com/AKSHITHA-CHILUKA)  | 110       | Didn't showcase much tech skills but highly active |
+| Aslam Sayyad                   | [aslams2020](https://github.com/aslams2020)              | 95        | Great technical skills, collaborative and soft skills |
+| Vivek Vardhan                  | [vivekvardhan2810](https://github.com/vivekvardhan2810)  | 95        | Balance |
 
 
 
