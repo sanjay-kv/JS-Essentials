@@ -33,7 +33,7 @@
 | Dinesh                         | [dinxsh](https://github.com/dinxsh)                      | 50        | -                                                                                                                                                                                                                                                 |
 | Aditya C                       | [aditya-bhaumik](https://github.com/aditya-bhaumik)      | 135       |  • [added the separate section](https://github.com/recodehive/machine-learning-repos/pull/1206) <br> • [added code of conduct page](https://github.com/recodehive/machine-learning-repos/pull/1202) <br> • [added testimonial section](https://github.com/recodehive/machine-learning-repos/pull/1201) <br> • [added task by vivek](https://github.com/recodehive/machine-learning-repos/pull/1171) <br> • [Improved ui of the website template](https://github.com/recodehive/machine-learning-repos/pull/1140) <br> • [subcategories folders for all the models](https://github.com/recodehive/machine-learning-repos/pull/1136) |
 
---- 
+-------
 
 ## #Top Techincal Skilled Members 
 
@@ -73,6 +73,42 @@
 | Garima Singh      | [Garima Singh](https://github.com/garima-singh) | Communication |
 
 
+## #Core Team
+(Nominees based on soft and tech skills)
+
+| Name                 | GitHub Profile                                               |  Score   |
+|----------------------|--------------------------------------------------------------|------------|
+| Saumilli Roy         | [Saumilli Roy](https://github.com/saumilroy)                 |     100       |
+| AKSHITHA-CHILUKA     | [AKSHITHA-CHILUKA](https://github.com/AKSHITHA-CHILUKA)       |    110      |
+| Suhani Singh Paliwal  | [Suhani Singh Paliwal](https://github.com/suhanipaliwal)       |    120        |
+| Vivek Vardhan        | [Vivek Vardhan](https://github.com/VivekVardhan)             |    95        |
+| Radhika Malpani      | [Radhika Malpani](https://github.com/RadhikaMalpani1702)      |    70        |
+| Nikita Tiwari                  | [nikki-05](https://github.com/nikki-05)              | 65        | 
+| Aslam Sayyad         | [Aslam Sayyad](https://github.com/aslams2020)                |     95       |
+| Tejashri Taral       | [Tejashri Taral](https://github.com/tejashritaral)           |     80       |
+| Kalyani Uppuluri     | [Kalyani Uppuluri](https://github.com/kalyaniuppuluri)       |     55 |
+| Shreya Paul          | [Shreya Paul](https://github.com/shreya-paul-17)             |     45       |
+| Meet Jain            | [Meet Jain](https://github.com/meetjain)                         |    95       |
+| Siddheya Kulkarni    | [Siddheya Kulkarni](https://github.com/siddheyakulkarni)     |      45      |
+| Dinesh               | [dinxsh](https://github.com/dinxsh)                          |     50       |
+
+
+## #Program Manager (GIrls)
+(Suggestions based on the highest points, activity and the management skills)
+
+| **Team Member Name**           | **GitHub Profile**                                       | **Score** | **Judgement**                                                                                                                                                                                                                                   |
+|--------------------------------|----------------------------------------------------------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Suhani Singh Paliwal           | [suhanipaliwal](https://github.com/suhanipaliwal)        | 120       | Suhani (GSSOC rank 43) is consistently active in answering GitHub discussions and overseeing them. She has participated in creating and designing banners and implemented the navigation bar and dropdown features in ML repos. She can be a Core team member or Program Manager. |
+| Akshitha Chiluka               | [AKSHITHA-CHILUKA](https://github.com/AKSHITHA-CHILUKA)  | 110       | Akshitha (gssoc rank 74) is proactive and engages in every task, including creating banners and resolving doubts in GitHub discussions. She is initiative and participation suggest she could be in a Core team or PM role if she handles management effectively. |
+| Saumili Roy                    | [sau-mili](https://github.com/sau-mili)                  | 100       | Saumili (gssoc rank 8) has shown a balanced and thoughtful approach to contributions. While she hasn't made PRs in ML repos, her earlier tasks included filtering Excel sheets and designing banners. I think she has understanding of both the technical and interpersonal aspects of the team |
+| Radhika Malpani                | [RadhikaMalpani1702](https://github.com/RadhikaMalpani1702) | 70        | Radhika (gssoc rank 29) has excellent graphic designing and technical skills, demonstrated by her PRs for creating an organization page and adding new features. she has experience in project management and leadership skills, she has collaborated in earlier open source programs like VSoC as Co Project admin, so she can be a Program manger or Core Team member |
+| Tejashri Taral                 | [Tejashri-Taral](https://github.com/Tejashri-Taral)      | 80        | Tejashri (gssoc Rank 93) has made significant contributions with PRs for adding a progress bar and contributors section. She also participated in earlier tasks. |
+| Nikita Tiwari                  | [nikki-05](https://github.com/nikki-05)                  | 65        | Nikita (GSSOc Rank 159) has participated in earlier tasks but has not made PRs in ML repos. Her previous contributions suggest she could potentially handle a Program Manager role with further experience and involvement. |
+
+
+
+
+
 ## #Total PRs Made by the Members in Machine Learning Repos
 
 **shreyash3087**
@@ -86,17 +122,11 @@
 - [Moved JS content to script.js](https://github.com/recodehive/machine-learning-repos/pull/1156)
 - [Added Directory Fetching Logic through Github API](https://github.com/recodehive/machine-learning-repos/pull/1137)
 
-**vivekv2810**
-- [Made Contact us Page](https://github.com/recodehive/machine-learning-repos/pull/1210)
-
-**shreya-paul-17**
-- [Linking of Code Of Conduct done](https://github.com/recodehive/machine-learning-repos/pull/1207)
-
 **aditya-bhaumik**
-- [added the separate section](https://github.com/recodehive/machine-learning-repos/pull/1206)
-- [added code of conduct page](https://github.com/recodehive/machine-learning-repos/pull/1202)
-- [added testimonial section](https://github.com/recodehive/machine-learning-repos/pull/1201)
-- [added task by vivek](https://github.com/recodehive/machine-learning-repos/pull/1171)
+- [added the separate section](https://github.com/recodehive/machine-learning-repos/pull/1206) Collab with Vivek
+- [added code of conduct page](https://github.com/recodehive/machine-learning-repos/pull/1202) Collab with Vivek
+- [added testimonial section](https://github.com/recodehive/machine-learning-repos/pull/1201) Collab with Vivek
+- [added task by vivek](https://github.com/recodehive/machine-learning-repos/pull/1171) Collab with Vivek
 - [Improved ui of the website template](https://github.com/recodehive/machine-learning-repos/pull/1140)
 - [subcategories folders for all the models](https://github.com/recodehive/machine-learning-repos/pull/1136)
 
@@ -143,6 +173,12 @@
 - [Update styles.css](https://github.com/recodehive/machine-learning-repos/pull/1180)
 - [Update styles.css](https://github.com/recodehive/machine-learning-repos/pull/1175)
 - [Update index.html](https://github.com/recodehive/machine-learning-repos/pull/1174)
+
+**vivekv2810**
+- [Made Contact us Page](https://github.com/recodehive/machine-learning-repos/pull/1210)
+
+**shreya-paul-17**
+- [Linking of Code Of Conduct done](https://github.com/recodehive/machine-learning-repos/pull/1207)
 
 **SuhainaFathimaM**
 - [Added Dark mode](https://github.com/recodehive/machine-learning-repos/pull/1173)
