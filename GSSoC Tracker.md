@@ -1,4 +1,4 @@
-## GSSoC Team Tracker
+## #GSSoC Team Tracker
 
 | **Team Member Name**           | **GitHub Profile**                                       | **Score** | **Recent Contributions**                                                                                                                                                                                                                          |
 |--------------------------------|----------------------------------------------------------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -28,14 +28,44 @@
 | Swarnendu Bhandari             | [Swarnendu0123](https://github.com/Swarnendu0123)        | 25        | -                                                                                                                                                                                                                                                 |
 | Vaishnavi Patil                | [vaishnavip27](https://github.com/vaishnavip27)          | 30        | -                                                                                                                                                                                                                                                 |
 | Garima Singh                   | [GarimaSingh0109](https://github.com/GarimaSingh0109)    | 50        | -                                                                                                                                                                                                                                                 |
-| Kalyani Uppuluri               | [UppuluriKalyani](https://www.github.com/UppuluriKalyani) | 55        | -                                                                                                                                                                                                                                                 |
+| Kalyani Uppuluri               | [UppuluriKalyani](https://www.github.com/UppuluriKalyani) | 55        | - [updated details about chatbot](https://github.com/recodehive/machine-learning-repos/pull/1182) <br>  [Added More Details to Chatbot](https://github.com/recodehive/machine-learning-repos/pull/1179)                                                                                                                                                                                                                                              |
 | Vivek Vardhan                  | [vivekvardhan2810](https://github.com/vivekvardhan2810)  | 95        |  • [Made Contact us Page](https://github.com/recodehive/machine-learning-repos/pull/1210)                                                                                                                                                       |
 | Dinesh                         | [dinxsh](https://github.com/dinxsh)                      | 50        | -                                                                                                                                                                                                                                                 |
-| Sanjay                         | [sanjay-kv](https://github.com/sanjay-kv)                | 0         | -                                                                                                                                                                                                                                                 |
 | Aditya C                       | [aditya-bhaumik](https://github.com/aditya-bhaumik)      | 135       |  • [added the separate section](https://github.com/recodehive/machine-learning-repos/pull/1206) <br> • [added code of conduct page](https://github.com/recodehive/machine-learning-repos/pull/1202) <br> • [added testimonial section](https://github.com/recodehive/machine-learning-repos/pull/1201) <br> • [added task by vivek](https://github.com/recodehive/machine-learning-repos/pull/1171) <br> • [Improved ui of the website template](https://github.com/recodehive/machine-learning-repos/pull/1140) <br> • [subcategories folders for all the models](https://github.com/recodehive/machine-learning-repos/pull/1136) |
 
 --- 
-## Total PRs Made by the Members in Machine Learning Repos
+
+## #Top Techincal Skilled Members 
+
+Here’s the updated Markdown table including Aslam Sayyad:
+
+### Technical Skills Table
+
+| **Team Member Name**           | **GitHub Profile**                                       | **Technical Skills**                                                                                                 |
+|--------------------------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Shreyash Srivastava            | [shreyash3087](https://github.com/shreyash3087)          | JavaScript, APIs, Node.js, React, HTML, CSS, Git, GitHub Actions, Deployment                                                             |
+| Mastan Sayyad                  | [MastanSayyad](https://github.com/MastanSayyad)          | JavaScript, APIs, HTML, CSS, Express, Git, Web Design                                                                       |
+| Vansh Chaurasiya               | [vansh-codes](https://github.com/vansh-codes)            | JavaScript, HTML, CSS, SEO, Express, Web Development, Git                                                                     |
+| Aditya C                       | [aditya-bhaumik](https://github.com/aditya-bhaumik)      | HTML, CSS, JavaScript, UI Design, Git, GitHub                                                                        |
+| Vivek Vardhan                  | [vivekvardhan2810](https://github.com/vivekvardhan2810)  | JavaScript, HTML, CSS, Web Development, Git, UI Design                                                              |
+| Akshitha Chiluka               | [AKSHITHA-CHILUKA](https://github.com/AKSHITHA-CHILUKA)  | HTML, CSS, JavaScript, Web Design, Git                                                                              |
+| Radhika Malpani                | [RadhikaMalpani1702](https://github.com/RadhikaMalpani1702) | JavaScript, APIs, HTML, CSS, Web Design, Git, Responsive Design                                                                                |
+| Suhani Singh Paliwal           | [suhanipaliwal](https://github.com/suhanipaliwal)        | HTML, CSS, JavaScript, Web Development, Git, Responsive Design                                                       |
+| Aslam Sayyad                  | [AslamSayyad](https://github.com/AslamSayyad)            | JavaScript, HTML, CSS, React, Git, Web Development & Web Design                                                                   |
+| Tejashri Taral                 | [Tejashri-Taral](https://github.com/Tejashri-Taral)      | JavaScript, HTML, CSS, Web Development, Git                                                                         |
+| Kalyani Uppulari                    | [UppuluriKalyani](https://www.github.com/UppuluriKalyani)      | HTML, CSS, JavaScript, Git                                                                              |
+| Shreya Paul                    | [shreya-paul-17](https://github.com/shreya-paul-17)      | HTML, CSS, JavaScript, Web Design, Git                                                                              |
+
+## #Top Soft Skilled Members 
+
+- Suhani Singh Paliwal 
+- Aslam Sayyad 
+- Meet Jain
+- Akshitha Chiluka
+- Saumili Roy 
+
+
+## #Total PRs Made by the Members in Machine Learning Repos
 
 **shreyash3087**
 - [Added Vercel.json and Changed Server Configurations for Deployment](https://github.com/recodehive/machine-learning-repos/pull/1213)
@@ -79,6 +109,11 @@
 - [Updated readme and added gitignore](https://github.com/recodehive/machine-learning-repos/pull/1155)
 - [Create README.md for Contributing guidelines and project setup](https://github.com/recodehive/machine-learning-repos/pull/1139)
 
+**RadhikaMalpani1702**
+- [Fixed and Added new Scroll to Top Button](https://github.com/recodehive/machine-learning-repos/pull/1192)
+- [Added dynamic date functionlity to the copyright](https://github.com/recodehive/machine-learning-repos/pull/1190)
+- [Created dedicated RecodeHive Organization Page](https://github.com/recodehive/machine-learning-repos/pull/1189)
+
 **suhanipaliwal**
 - [added learn on navbar](https://github.com/recodehive/machine-learning-repos/pull/1203)
 - [added dropdown to navbar.](https://github.com/recodehive/machine-learning-repos/pull/1197)
@@ -92,10 +127,9 @@
 - [Added scroll progress bar into the website](https://github.com/recodehive/machine-learning-repos/pull/1195)
 - [Added our valuable contributors](https://github.com/recodehive/machine-learning-repos/pull/1160)
 
-**RadhikaMalpani1702**
-- [Fixed and Added new Scroll to Top Button](https://github.com/recodehive/machine-learning-repos/pull/1192)
-- [Added dynamic date functionlity to the copyright](https://github.com/recodehive/machine-learning-repos/pull/1190)
-- [Created dedicated RecodeHive Organization Page](https://github.com/recodehive/machine-learning-repos/pull/1189)
+**UppuluriKalyani**
+- [updated details about chatbot](https://github.com/recodehive/machine-learning-repos/pull/1182)
+- [Added More Details to Chatbot](https://github.com/recodehive/machine-learning-repos/pull/1179) 
 
 **AKSHITHA-CHILUKA**
 - [Update styles.css](https://github.com/recodehive/machine-learning-repos/pull/1180)
