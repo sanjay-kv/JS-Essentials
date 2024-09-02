@@ -37,9 +37,6 @@
 
 ## #Top Techincal Skilled Members 
 
-Here’s the updated Markdown table including Aslam Sayyad:
-
-### Technical Skills Table
 
 | **Team Member Name**           | **GitHub Profile**                                       | **Technical Skills**                                                                                                 |
 |--------------------------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
