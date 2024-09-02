@@ -103,7 +103,7 @@
 | Saumili Roy                    | [sau-mili](https://github.com/sau-mili)                  | 100       | Saumili (gssoc rank 8) has shown a balanced and thoughtful approach to contributions. While she hasn't made PRs in ML repos, her earlier tasks included filtering Excel sheets and designing banners. I think she has understanding of both the technical and interpersonal aspects of the team |
 | Radhika Malpani                | [RadhikaMalpani1702](https://github.com/RadhikaMalpani1702) | 70        | Radhika (gssoc rank 29) has excellent graphic designing and technical skills, demonstrated by her PRs for creating an organization page and adding new features. she has experience in project management and leadership skills, she has collaborated in earlier open source programs like VSoC as Co Project admin, so she can be a Program manger or Core Team member |
 | Tejashri Taral                 | [Tejashri-Taral](https://github.com/Tejashri-Taral)      | 80        | Tejashri (gssoc Rank 93) has made significant contributions with PRs for adding a progress bar and contributors section. She also participated in earlier tasks. |
-| Nikita Tiwari                  | [nikki-05](https://github.com/nikki-05)                  | 65        | Nikita (GSSOc Rank 159) has participated in earlier tasks but has not made PRs in ML repos. Her previous contributions suggest she could potentially handle a Program Manager role with further experience and involvement. |
+| Nikita Tiwari                  | [nikki-05](https://github.com/nikki-05)                  | 65        | Nikita (GSSOc Rank 159) has participated in earlier tasks but has not made PRs in ML repos. |
 
 ## #GSSOC Interns
 
