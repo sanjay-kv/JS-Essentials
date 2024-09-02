@@ -55,11 +55,22 @@
 
 ## #Top Soft Skilled Members 
 
-- Suhani Singh Paliwal 
-- Aslam Sayyad 
-- Meet Jain
-- Akshitha Chiluka
-- Saumili Roy 
+| Name              | GitHub Profile                              | Soft Skills                                      |
+|-------------------|---------------------------------------------|--------------------------------------------------|
+| Shreyash          | [Shreyash](https://github.com/shreyash3087) | Communication, Teamwork, Problem-Solving, Critical Thinking, Collaboration, Strategic Thinking   |
+| Suhani Singh      | [Suhani Singh](https://github.com/suhanipaliwal) | Problem-Solving, Github discussion, Communication   |
+| Vansh             | [Vansh](https://github.com/vansh-codes)     | Collaboration, Time Management, Critical Thinking |
+| Saumili Roy       | [Saumili Roy](https://github.com/saumilroy) |Communication  |
+| Aditya C          | [Aditya C](https://github.com/aditya-bhaumik) | Strategic Thinking, Communication, Github discussion, Initiative, Collaboration  |
+| Aslam Sayyad      | [Aslam Sayyad](https://github.com/aslams2020) | Adaptability, Collaboration, Organizational Skills, Communication, Problem-Solving |
+| Siddheya Kulkarni | [Siddheya Kulkarni](https://github.com/siddheyakulkarni) | Critical Thinking, Communication, Problem-Solving, , Collaboration  |
+| Maheshwari Love   | [Maheshwari Love](https://github.com/maheshwari-love) | Attention to Detail, Communication|
+| Shreya Paul       | [Shreya Paul](https://github.com/shreya-paul-17) | Adaptability, Communication   |
+| AKSHITHA-CHILUKA | [AKSHITHA-CHILUKA](https://github.com/AKSHITHA-CHILUKA) | Communication, Github discussion, Collaboration |
+| Radhika Malpani   | [Radhika Malpani](https://github.com/RadhikaMalpani1702) | Communication, Collaboration, Desigining, Creativity, Team Leadership, Conflict Resolution |
+| Dinesh            | [Dinesh](https://github.com/dinesh)         | Team Collaboration, Analytical Skills, Creativity |
+| Meet Jain         | [Meet Jain](https://github.com/meetjain)    | Communication  |
+| Garima Singh      | [Garima Singh](https://github.com/garima-singh) | Communication |
 
 
 ## #Total PRs Made by the Members in Machine Learning Repos
