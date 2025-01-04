@@ -11,11 +11,11 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
+            line-height: 1.6;
         }
 
         #content {
-            margin-right: 150px;
-            margin-left: 150px;
+            margin: 20px 150px;
         }
 
         nav {
@@ -47,7 +47,6 @@
             padding: 0;
             margin: 0;
             display: flex;
-            margin-right: 50px;
         }
 
         nav ul li {
@@ -58,7 +57,6 @@
             color: white;
             text-decoration: none;
             font-weight: bold;
-
         }
 
         nav ul li a:hover {
@@ -75,6 +73,7 @@
             color: #f4f4f4;
             padding: 10px;
             border-radius: 5px;
+            overflow-x: auto;
         }
 
         code {
@@ -82,18 +81,22 @@
             border-radius: 3px;
         }
 
-        #foot {
-            color: white;
-        }
-
         footer {
             background-color: #333;
             color: white;
-            padding: 5px;
+            padding: 10px;
             border-radius: 5px;
             text-align: center;
-            height: 50px;
-            margin-top: 550px;
+            margin-top: 50px;
+        }
+
+        footer a {
+            color: white;
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
         }
     </style>
 </head>
@@ -102,14 +105,14 @@
     <!-- Navbar -->
     <nav>
         <div class="logo">
-            <img src="Assets/logo.png" alt="JS-Essentials Logo">
+            <img src="../Assets/logo.png" alt="JS-Essentials Logo">
             <h1>JS-Essentials</h1>
         </div>
         <ul>
             <li><a href="#">Home</a></li>
             <li><a href="#">About</a></li>
             <li><a href="#">Tutorials</a></li>
-            <li><a href="#  ">Contact</a></li>
+            <li><a href="#">Contact</a></li>
         </ul>
     </nav>
 
@@ -117,7 +120,7 @@
 
     <!-- Footer -->
     <footer>
-        <p id="foot"> <a > 2024 JS-Essentials. All rights reserved.</a></pp>
+        <p><a href="#">&copy; 2024 JS-Essentials. All rights reserved.</a></p>
     </footer>
 
     <!-- Include marked.js library -->
@@ -127,14 +130,12 @@
         const url = 'https://raw.githubusercontent.com/MastanSayyad/JS-Essentials/main/README.md';
 
         fetch(url)
-            .then(response => response.text())
+            .then(response => response.ok ? response.text() : Promise.reject('Failed to load README.'))
             .then(data => {
-                const contentElement = document.getElementById('content');
-                // Convert Markdown to HTML using marked.js
-                contentElement.innerHTML = marked.parse(data);
+                document.getElementById('content').innerHTML = marked.parse(data);
             })
             .catch(error => {
-                document.getElementById('content').textContent = 'Failed to load README.';
+                document.getElementById('content').textContent = error;
                 console.error('Error fetching README:', error);
             });
     </script>
